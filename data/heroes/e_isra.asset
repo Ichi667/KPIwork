@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fad0ebc278a542458f24cd573af41b3, type: 3}
+  m_Name: e_isra
+  m_EditorClassIdentifier: Assembly-CSharp::TacticalHex.HeroConfig
+  Id: 0
+  HeroName: "\u0406\u0441\u0440\u0430"
+  Faction: 1
+  Attack: 16
+  Defense: 24
+  Army:
+  - Unit: {fileID: 11400000, guid: 5f4c00c7837c3a9479a732bf3da5fc71, type: 2}
+    Count: 40
+  - Unit: {fileID: 11400000, guid: 341347bd8794add4fa3826c7b0cc0e18, type: 2}
+    Count: 1300
+  - Unit: {fileID: 11400000, guid: a948a79bac1e9d34bacaf67dda63dacb, type: 2}
+    Count: 450
+  - Unit: {fileID: 11400000, guid: 60952fa2399b41445a142b3f7fd490f2, type: 2}
+    Count: 15
+  - Unit: {fileID: 11400000, guid: a948a79bac1e9d34bacaf67dda63dacb, type: 2}
+    Count: 450
+  - Unit: {fileID: 11400000, guid: 341347bd8794add4fa3826c7b0cc0e18, type: 2}
+    Count: 1300
+  - Unit: {fileID: 11400000, guid: 5f4c00c7837c3a9479a732bf3da5fc71, type: 2}
+    Count: 40

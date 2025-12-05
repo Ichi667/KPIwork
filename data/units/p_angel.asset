@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4106c8e9c8f01f74aade813086335818, type: 3}
+  m_Name: p_angel
+  m_EditorClassIdentifier: Assembly-CSharp::TacticalHex.UnitConfig
+  UnitName: "\u042F\u043D\u0433\u0435\u043B"
+  Icon: {fileID: 672500489458952454, guid: c376f9f4854396341bfe4856191bcddd, type: 3}
+  Attack: 27
+  Defense: 25
+  MinDamage: 25
+  MaxDamage: 25
+  HealthPerUnit: 200
+  Initiative: 14
+  Speed: 14
+  IsRanged: 0
+  MinRange: 1
+  MaxRange: 6
+  MeleeDamageMultiplier: 0.5
+  DefaultStackSize: 10
+  HasOpportunityAttack: 1
+  OpportunityAttackMultiplier: 0.5

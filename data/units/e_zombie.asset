@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4106c8e9c8f01f74aade813086335818, type: 3}
+  m_Name: e_zombie
+  m_EditorClassIdentifier: Assembly-CSharp::TacticalHex.UnitConfig
+  UnitName: "\u0417\u043E\u043C\u0431\u0456"
+  Icon: {fileID: 2891431177457827818, guid: 70152ad914963fe4c81680dee62c8567, type: 3}
+  Attack: 2
+  Defense: 3
+  MinDamage: 1
+  MaxDamage: 3
+  HealthPerUnit: 15
+  Initiative: 3
+  Speed: 3
+  IsRanged: 0
+  MinRange: 1
+  MaxRange: 6
+  MeleeDamageMultiplier: 0.5
+  DefaultStackSize: 250
+  HasOpportunityAttack: 1
+  OpportunityAttackMultiplier: 0.5

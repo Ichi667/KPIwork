@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4106c8e9c8f01f74aade813086335818, type: 3}
+  m_Name: e_darkknight
+  m_EditorClassIdentifier: Assembly-CSharp::TacticalHex.UnitConfig
+  UnitName: "\u0422\u0435\u043C\u043D\u0438\u0439 \u043B\u0438\u0446\u0430\u0440"
+  Icon: {fileID: 3536626617273796473, guid: 2e70a58e1c6e98d49b8a36e3d201aa98, type: 3}
+  Attack: 16
+  Defense: 16
+  MinDamage: 17
+  MaxDamage: 20
+  HealthPerUnit: 90
+  Initiative: 11
+  Speed: 9
+  IsRanged: 0
+  MinRange: 1
+  MaxRange: 6
+  MeleeDamageMultiplier: 0.5
+  DefaultStackSize: 40
+  HasOpportunityAttack: 1
+  OpportunityAttackMultiplier: 0.5

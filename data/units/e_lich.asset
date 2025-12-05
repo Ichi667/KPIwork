@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4106c8e9c8f01f74aade813086335818, type: 3}
+  m_Name: e_lich
+  m_EditorClassIdentifier: Assembly-CSharp::TacticalHex.UnitConfig
+  UnitName: "\u041B\u0456\u0447"
+  Icon: {fileID: 1648221378567707459, guid: a5de0b0aa1bc8c64ba0fd0ac773b4e09, type: 3}
+  Attack: 13
+  Defense: 13
+  MinDamage: 13
+  MaxDamage: 17
+  HealthPerUnit: 50
+  Initiative: 9
+  Speed: 4
+  IsRanged: 1
+  MinRange: 1
+  MaxRange: 50
+  MeleeDamageMultiplier: 1
+  DefaultStackSize: 75
+  HasOpportunityAttack: 0
+  OpportunityAttackMultiplier: 0.5
